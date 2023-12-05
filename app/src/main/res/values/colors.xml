@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statusBarColor">#079E65</color>
+    <color name="toolBarColor">#057E50</color>
+    <color name="toolBarText">#FCF6ED</color>
+    <color name="main_bg">#f5fffb</color>
+    <color name="bottom_bar_bg">#e1faf1</color>
+    <color name="list_view">#758B5B</color>
+
+
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinancialApp</string>
+    <string name="tooolBarText">MyMoney</string>
+    <string name="categories">КАТЕГОРИИ</string>
+    <string name="rashodi">РАСХОДЫ</string>
+    <string name="dohodi">ДОХОДЫ</string>
+    <string name="date_start">Начало</string>
+    <string name="date_end">Конец</string>
+    <string name="vsego">ВСЕГО</string>
+    <string name="like_mcuh_dohodi">71.342 ₽</string>
+</resources>
